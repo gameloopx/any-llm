@@ -29,7 +29,7 @@ This demo showcases the ability of any-llm to discover and use models across a v
    # Set API keys for the providers you want to use
    export OPENAI_API_KEY="your-openai-api-key"
    export ANTHROPIC_API_KEY="your-anthropic-api-key"
-   export GOOGLE_API_KEY="your-google-api-key"
+   export GOOGLE_API_KEY=AIzaSyBWBPDOWmrB07T1C46AKReQ9HH8n6I2At4
    export MISTRAL_API_KEY="your-mistral-api-key"
    # ... add other provider API keys as needed
    ```
